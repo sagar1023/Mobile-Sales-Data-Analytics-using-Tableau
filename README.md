@@ -61,3 +61,15 @@ These features provided deeper insights and allowed for more dynamic analysis, e
 
 # Conclusion
 The final Tableau dashboards provided Mobile Gadget Gurus with a powerful tool to monitor and analyze their operations. The visualizations allowed for easy tracking of sales performance, customer value, product efficiency, and sales rep effectiveness. This project demonstrated the capability of Tableau to transform raw data into actionable insights, supporting data-driven decision-making processes within the organization.
+
+# Dashboard Images
+![image](https://github.com/sagar1023/Mobile-Sales-Data-Analytics-using-Tableau/assets/125538858/84a0eba9-ce83-49b0-9ffc-3d0a3048b4a5)
+![image](https://github.com/sagar1023/Mobile-Sales-Data-Analytics-using-Tableau/assets/125538858/1001246b-eb7e-43fe-8872-ff2ea1bea5ac)
+![image](https://github.com/sagar1023/Mobile-Sales-Data-Analytics-using-Tableau/assets/125538858/25e88fb1-df3d-4875-862a-e01b770eb656)
+![image](https://github.com/sagar1023/Mobile-Sales-Data-Analytics-using-Tableau/assets/125538858/44d24ed0-ad51-4d00-9c8a-bb9b2660ef1d)
+![image](https://github.com/sagar1023/Mobile-Sales-Data-Analytics-using-Tableau/assets/125538858/5fb31582-be4d-44ee-82a3-33e3e552c440)
+![image](https://github.com/sagar1023/Mobile-Sales-Data-Analytics-using-Tableau/assets/125538858/b84d2f0c-2a61-4de7-bf86-f6841fda82d7)
+
+
+
+
